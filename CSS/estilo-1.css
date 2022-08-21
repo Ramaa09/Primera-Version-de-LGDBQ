@@ -1,0 +1,42 @@
+body{
+    font-weight: 200px;
+    font-size: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(66, 73, 50);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+.first{
+    border-radius: 15px;
+    margin: 50px;
+    width: 280px;
+    height: 35px;
+    background:rgb(64, 64, 68);
+    transition: background 1s, height 1s, width 1s;
+}
+.first:hover{
+    background: rgb(131, 131, 131);
+    height: 40px;
+    width: 290px;
+}
+
+
+
+.second{
+    border-radius: 15px;
+    margin: 50px;
+    width: 310px;
+    height: 35px;
+    background:rgb(64, 75, 71);
+    transition: background 1s, height 1s, width 1s;
+}
+.second:hover{
+    background: rgb(133, 133, 133);
+    height: 40px;
+    width: 320px;
+}
+
+
+
+
